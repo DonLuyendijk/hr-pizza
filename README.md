@@ -1,3 +1,3 @@
 # hr-pizza
-pizza repo`
+pizza repo
 ya yeet
